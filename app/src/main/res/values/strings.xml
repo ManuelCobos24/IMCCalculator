@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">IMC Calculator</string>
+    <string name="male">male</string>
+    <string name="female">female</string>
+    <string name="height">height</string>
+    <string name="weight">weight</string>
+    <string name="age">age</string>
+    <string name="calculate">calculate</string>
+    <string name="result">result</string>
+    <string name="recalculate">recalculate</string>
+    <string name="error">Error</string>
+
+    <string name="title_underweight">Underweight</string>
+    <string name="description_underweight">You are below the optimal weight for your height.</string>
+    <string name="title_normal_weight">Normal Weight</string>
+    <string name="description_normal_weight">You are within the optimal weight range for your height.</string>
+    <string name="title_overweight">Overweight</string>
+    <string name="description_overweight">You are above the optimal weight for your height.</string>
+    <string name="title_obesity">Obesity</string>
+    <string name="description_obesity">You are VERY above the optimal weight for your height.</string>
+
+</resources>
